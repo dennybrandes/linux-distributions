@@ -3,7 +3,7 @@
 | Version | Code name | Kernel |
 |--|--|--|
 | Debian 14 | Forky | -- |
-| Debian 13 | Trixie | -- |
+| Debian 13 | Trixie | 6.8 |
 | Debian 12 | Bookworm | 6.1 |
 | Debian 11 | Bullseye | 5.10 |
 | Debian 10 | Buster | 4.19 |
@@ -16,6 +16,6 @@
 
 | Version | Code name | Based on | Linux Kernel |
 |--|--|--|--|
-|Ubuntu 24.10| Oracular Oriole | | 6.11 |
-|Ubuntu 24.04.1 LTS | Noble Numbat | | 
-|Ubuntu 24.04 LTS | Noble Numbat | | 
+|Ubuntu 24.10| Oracular Oriole | Debian 13 (Trixie) | 6.11 |
+|Ubuntu 24.04.1 LTS | Noble Numbat | Debian 13 (Trixie) | 6.11 |
+|Ubuntu 24.04 LTS | Noble Numbat | Debian 13 (Trixie) | 6.11 |
