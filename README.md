@@ -1,14 +1,16 @@
 **Debian**
 
-| Version | Code name |
-|--|--|
-|Debian 12| Bookworm |
-|Debian 11| Bullseye |
-|Debian 10| Buster |
-|Debian 9| Stretch |
-|Debian 8| Jessie |
-|Debian 7| Wheezy |
-|Debian 6| Squeeze |
+| Version | Code name | Kernel |
+|--|--|--|
+| Debian 14 | Forky | -- |
+| Debian 13 | Trixie | -- |
+| Debian 12 | Bookworm | 6.1 |
+| Debian 11 | Bullseye | 5.10 |
+| Debian 10 | Buster | 4.19 |
+| Debian 9 | Stretch | 4.9 |
+| Debian 8 | Jessie | 3.16 |
+| Debian 7 | Wheezy | 3.2 |
+| Debian 6 | Squeeze | 2.6.32 |
 
 **Ubtuntu**
 
